@@ -1,6 +1,3 @@
-# Exclude large executable (>100MB limit on GitHub push)
-Xeno-v1.3.60.exe
-
 # Local server files & logs
 server.py
 server.log
